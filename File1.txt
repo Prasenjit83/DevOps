@@ -1,3 +1,7 @@
 This is first file to be push to Git
 
-for the second commit
+
+
+1. work.
+2 lunch.
+3 home
